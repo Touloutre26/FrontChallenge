@@ -40,18 +40,18 @@ body {
     padding: 15px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 300px) {
     body {
         padding: 10px;
     }
 
     .card {
-        width: 90%;
+        width: 60%;
     }
 
     .qr-code img {
-        width: 80px;
-        height: 80px;
+        width: 200px;
+        height: 200px;
     }
 
     .card-content h2 {
@@ -63,3 +63,4 @@ body {
     }
     
 }
+
