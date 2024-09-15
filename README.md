@@ -16,7 +16,7 @@
 ## Deploiement du projet
 
 - [Code Source](https://github.com/Touloutre26/FrontChallenge.git)
-- [Netlify](https://qr-code-front-challenge)
+- [Netlify](https://qr-code-front-challenge.netlify.app)
 
 
 
