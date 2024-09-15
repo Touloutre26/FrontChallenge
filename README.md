@@ -2,18 +2,22 @@
 
 - Email - [Alexandrô Tolotra Rakototsiafa](tolotrarakototsiafa@gmail.com)
 - Github - [Touloutre26](https://https://github.com/Touloutre26)
-- LinkedIn - [](https://www.linkedin.com/in/rakototsiafa)
+- LinkedIn - [Rakototsiafa](https://www.linkedin.com/in/rakototsiafa)
 
 
-## Utilité du projet
+## Description du projet 
 
-Débuter avec Front Mentor et mon premier petit projet personnel avec HTML CSS.
+- Nom du projet: Carte QR Code Front Mentor
+- Design - [Front Mentor](https://frontmentor.com)
+- Langage : HTML5, CSS3
+- Plateform : Desktop, mobile
+- Navigateur : Chrome, Firefox,...
 
 
 ## Deploiement du projet
 
-- [GitHub Pages](https://github.com/Touloutre26/FrontChallenge.git)
-- [Vercel](https://vercel.com/)
+- [Code Source](https://github.com/Touloutre26/FrontChallenge.git)
+- [Site Web Officiel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
 
