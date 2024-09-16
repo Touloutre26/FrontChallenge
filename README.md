@@ -15,7 +15,7 @@
 
 ## Deploiement du projet
 
-- [Netlify](https://qr-code-front-challenge.netlify.app)
+- [QR Code Front Challenge](https://qr-code-front-challenge.netlify.app)
 
 
 
